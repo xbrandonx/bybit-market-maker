@@ -6,6 +6,7 @@ Use at your own risk.
 # Auth stuff.
 API_KEY = ''
 PRIVATE_KEY = ''
+# TO USE TESTNET BE SURE TO SET THE TESTNET API URL IN PYBIT
 
 # Set the market symbol and the coin associated with the market.
 SYMBOL = 'BTCUSD'
